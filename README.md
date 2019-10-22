@@ -1,1 +1,1 @@
-# veri-ileti-imi
+# veri iletisimi
